@@ -1,2 +1,2 @@
-# digitale_transparenz_im_oeffentlichen_raum
+# digitale-transparenz-im-oeffentlichen-raum
 This repo conains public documents about the project «Digitale Transparenz im öffentlichen Raum»
