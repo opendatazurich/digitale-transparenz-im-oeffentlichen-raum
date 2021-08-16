@@ -1,0 +1,38 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/PieraWolf/Desktop/W O R K / Ongoing WORK/Smart City Zürich/03_Final_Output (Design Team)/Round 2.2 Addition/2 Sticker/1 Velofrequenzen/Document fonts/AdobeFnt22.lst
+FileLength:1175
+FileModTime:650373199
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Md
+FamilyName:Helvetica Neue LT Std
+StyleName:65 Medium
+MenuName:HelveticaNeueLT Std Med
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 65 Medium
+WritingScript:Roman
+OutlineFileName:/Users/PieraWolf/Desktop/W O R K / Ongoing WORK/Smart City Zürich/03_Final_Output (Design Team)/Round 2.2 Addition/2 Sticker/1 Velofrequenzen/Document fonts/HelveticaNeueLTStd-Md.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28260
+FileModTime:74470664
+NameArray:0,Mac,18,HelveticaNeueLT Std Med
+NameArray:0,Mac,4,Helvetica Neue LT Std 65 Medium
+NameArray:0,Win,1,HelveticaNeueLT Std Med
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
